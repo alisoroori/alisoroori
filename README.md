@@ -3,7 +3,6 @@
   <body style="background-color:powderblue;">
 
 <h1>Biography</h1>
- <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <h3>hi,my name is ali &#128075;<h3>
   
   
