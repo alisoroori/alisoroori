@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banners/github-banner.jpg" alt="Codentis Banner" width="100%">
+</p>
 <div align="center">
 
 # Ali Soroori
